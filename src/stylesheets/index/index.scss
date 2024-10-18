@@ -1,0 +1,8 @@
+// @import "~bootstrap/scss/bootstrap";
+@import "../../../node_modules/plyr-react/plyr.css";
+
+$primary-color: orange;
+
+body {
+  background-color: $primary-color;
+}
